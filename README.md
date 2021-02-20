@@ -12,7 +12,7 @@ These steps will get this sample Next.js application running for you using Lapad
 
 Click this button to deploy the app to the Lapadi App Platform. If you are not logged in, you will be prompted to log in with your Lapadi account.
 
-[![Deploy to Lapadi]](https://app.lapadi.com/apps/create?repo=https://github.com/lapadi/sample-nextjs/tree/main)
+[Deploy to Lapadi](https://app.lapadi.com/apps/create?repo=https://github.com/lapadi/sample-nextjs/tree/main)
 
 Using this button disable the "Auto deploy changes on push" feature as you are using this repo directly. If you wish to try that feature, you will need to make your own copy of this repository.
 
